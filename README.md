@@ -1,11 +1,5 @@
 # 新闻管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ： “**新闻3**”   
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 新闻管理系统拥有两种角色：管理员和用户
@@ -72,12 +66,4 @@
 ### 4.5 文档目录
 
 ![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082343916.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： **新闻3**   ，获取源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
